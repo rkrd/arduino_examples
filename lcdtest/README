@@ -1,0 +1,6 @@
+LCD connection
+LCD     Arduino
+GND     GND
+VCC     5V
+SDA     SDA
+SLC     SLC
